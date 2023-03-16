@@ -1,0 +1,36 @@
+{
+  "name": "@juhan280/experiment",
+  "version": "0.1.0",
+  "description": "my first package to get started with publishing package to npm",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts",
+    "release": "pnpm run build && changeset publish",
+    "lint": "tsc && eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juhan289/experiment.git"
+  },
+  "author": "Juhan280",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juhan289/experiment/issues"
+  },
+  "homepage": "https://github.com/Juhan289/experiment#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.0",
+    "@types/node": "^18.15.3",
+    "@typescript-eslint/eslint-plugin": "^5.55.0",
+    "@typescript-eslint/parser": "^5.55.0",
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.4",
+    "tsup": "^6.6.3",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "tslib": "^2.5.0"
+  }
+}

@@ -12,6 +12,7 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 permissions:
   actions: write
+  contents: write
   pull-requests: write
 
 jobs:
@@ -35,5 +36,5 @@ jobs:
         with:
           publish: pnpm run release
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

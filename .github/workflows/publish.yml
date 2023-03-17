@@ -17,6 +17,9 @@ permissions:
   deployments: write
   packages: write
   pull-requests: write
+  repository-projects: write
+  security-events: write
+  statuses: write
 
 jobs:
   publish:

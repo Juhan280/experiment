@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.3.0
+
+### Minor Changes
+
+- 5fff865: added `isValidEmail` and `sendEmail` functions, removed all old exports other than version
+
 ## 0.2.4
 
 ### Patch Changes

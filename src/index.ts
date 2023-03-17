@@ -3,4 +3,8 @@ import { data } from "./module";
 
 export { data };
 
+export function func() {
+	console.log("test");
+}
+
 export default "hi";

@@ -4,7 +4,8 @@ export default defineConfig({
 	entry: ["src/index.ts"],
 	target: "esnext",
 	format: ["cjs", "esm"],
-	splitting: true,
+	minify: true,
+	keepNames: true,
 	dts: true,
 	clean: true,
 });

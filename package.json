@@ -1,6 +1,6 @@
 {
   "name": "@juhan280/experiment",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "my first package to get started with publishing package to npm",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -9,7 +9,7 @@
     "build": "tsup-node",
     "release": "pnpm run build && changeset publish",
     "lint": "tsc && eslint src",
-	"test": "cd test && node ."
+    "test": "cd test && node ."
   },
   "repository": {
     "type": "git",

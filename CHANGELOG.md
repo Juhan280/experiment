@@ -1,5 +1,12 @@
 # @juhan280/experiment
 
+## 0.2.4
+
+### Patch Changes
+
+- 1b125dc: it now exports mjs file when imported using esm syntax
+- 8542582: added package.json to the export path
+
 ## 0.2.3
 
 ### Patch Changes

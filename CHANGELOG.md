@@ -1,5 +1,12 @@
 # @juhan280/experiment
 
+## 0.2.3
+
+### Patch Changes
+
+- 5981f3d: removed unnecessary files
+  also renamed dist => lib
+
 ## 0.2.2
 
 ### Patch Changes

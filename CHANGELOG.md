@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.2.2
+
+### Patch Changes
+
+- 603cdda: checking if everything is okay
+
 ## 0.2.1
 
 ### Patch Changes

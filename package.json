@@ -1,6 +1,6 @@
 {
   "name": "@juhan280/experiment",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "my first package to get started with publishing package to npm",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

@@ -1,6 +1,6 @@
 import { z } from "zod";
 export { version } from "../package.json";
-export * from "./sum";
+export * from "./math";
 
 const emailSchema = z.string().email();
 export type Email = z.infer<typeof emailSchema>;

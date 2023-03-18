@@ -35,6 +35,8 @@ jobs:
         uses: pnpm/action-setup@v2
         with:
           version: latest
+      - name: Install Packages
+        run: pnpm install --frozen-lockfile
       - name: Build docs
         run: pnpm run docs
       - name: Setup Pages

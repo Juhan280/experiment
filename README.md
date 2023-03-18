@@ -1,2 +1,2 @@
-## my first package to get started with publishing package to npm
+## It is just a test project.
 - View [CHANGELOG](./CHANGELOG.md)

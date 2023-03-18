@@ -20,8 +20,7 @@
   "scripts": {
     "build": "tsup-node",
     "release": "pnpm run build && changeset publish",
-    "lint": "tsc && eslint src",
-    "test": "cd test && node ."
+    "lint": "tsc && eslint src"
   },
   "repository": {
     "type": "git",

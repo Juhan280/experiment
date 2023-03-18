@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.5.0
+
+### Minor Changes
+
+- f16533c: add more math functions
+
 ## 0.4.0
 
 ### Minor Changes

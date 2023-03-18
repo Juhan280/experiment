@@ -8,5 +8,6 @@ export default defineConfig({
 	minify: true,
 	keepNames: true,
 	dts: true,
+	splitting: true,
 	clean: true,
 });

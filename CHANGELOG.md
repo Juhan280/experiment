@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.4.0
+
+### Minor Changes
+
+- fd5372d: add sum function
+
 ## 0.3.0
 
 ### Minor Changes

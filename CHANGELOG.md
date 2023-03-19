@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.5.1
+
+### Patch Changes
+
+- bfa2ce1: added tsdoc for isValidEmail and send email
+
 ## 0.5.0
 
 ### Minor Changes

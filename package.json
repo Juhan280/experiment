@@ -23,6 +23,9 @@
     "release": "pnpm run build && changeset publish",
     "lint": "tsc && eslint src"
   },
+  "keywords": [
+    "experiment"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Juhan280/experiment.git"

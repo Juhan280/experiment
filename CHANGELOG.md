@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.6.0
+
+### Minor Changes
+
+- 699025b: added `range` function
+
 ## 0.5.1
 
 ### Patch Changes

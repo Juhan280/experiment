@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.6.2
+
+### Patch Changes
+
+- e67ed95: still nothing
+
 ## 0.6.1
 
 ### Patch Changes

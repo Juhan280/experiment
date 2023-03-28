@@ -12,6 +12,8 @@ const nonnegativeInteger = z.number().nonnegative().int();
  * @returns The sum of all the numbers in the array.
  *
  * @throws An error if the `numbers` parameter is not an array, or if it does not contain at least two numbers.
+ *
+ * [[include:sum.md]]
  */
 export function sum(
 	...numbers: [a: number, b: number, ...more: number[]]

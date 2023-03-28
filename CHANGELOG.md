@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.7.0
+
+### Minor Changes
+
+- 5943bf6: removed `sendEmail` function
+
 ## 0.6.2
 
 ### Patch Changes

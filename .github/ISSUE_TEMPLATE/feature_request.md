@@ -1,20 +1,31 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
+title: '[FEATURE REQUEST] '
+labels: 'enhancement'
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Description
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Please provide a brief description of the feature you are requesting for the package.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Use Case
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Describe the use case for this feature. How will this feature be used in real-world scenarios?
+
+## Expected Behavior
+
+Please describe the expected behavior of the feature you are requesting. What should happen when this feature is implemented?
+
+## Current Behavior
+
+Describe the current behavior of the package that this feature is related to. What is the gap that this feature is supposed to fill?
+
+## Possible Solution(s)
+
+Provide possible solutions that could help implement the feature you are requesting.
+
+## Additional Information
+
+Add any additional information, context, or screenshots that may help understand the feature request.

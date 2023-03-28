@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.6.1
+
+### Patch Changes
+
+- 2a6f2fc: nothing
+
 ## 0.6.0
 
 ### Minor Changes

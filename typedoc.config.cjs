@@ -2,5 +2,4 @@
 module.exports = {
 	entryPoints: ["src/index.ts"],
 	plugin: ["typedoc-plugin-zod"],
-	includes: "./Examples",
 };

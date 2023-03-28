@@ -19,7 +19,8 @@
   ],
   "scripts": {
     "build": "tsup-node",
-    "release": "pnpm run build && changeset version && typedoc && changeset publish",
+    "version": "changeset version && typedoc",
+    "release": "pnpm run build && changeset publish",
     "lint": "tsc && eslint src"
   },
   "keywords": [

@@ -1,5 +1,11 @@
 # @juhan280/experiment
 
+## 0.7.1
+
+### Patch Changes
+
+- b8e277b: nothing, just a test
+
 ## 0.7.0
 
 ### Minor Changes

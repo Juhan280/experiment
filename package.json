@@ -1,6 +1,6 @@
 {
   "name": "@juhan280/experiment",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "It is just a test project.",
   "main": "lib/index.js",
   "module": "lib/index.mjs",
